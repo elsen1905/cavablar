@@ -42,7 +42,7 @@
 
 
 
-xeyr bildiyim qədəri ilə yoxdur font avvsome də olan 605 ikon yetərlidir fikrimcə
+bəli var  fontello svg icon  və s .ama  font avvsome də olan 605 ikon yetərlidir fikrimcə
 
 
 Azərbaycan sriftlərini dəstəkləyən 10 ədəd font ailəsinin adı:

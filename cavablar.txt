@@ -1,0 +1,61 @@
+﻿Duzgun oxunaqlı kod yazma qaydaları
+1.CSS də kod yazarkan class adlarına onəm verin və daha aydın basa düşülən class lardan istifade etmək
+
+2.təkrarlar istafadə etməmək  daha optimal səkildə yazmaq 
+
+3.Commentlərdin istafadə etmək .
+
+4.qısaltmalardan istifadə etmək məsələn border-left border-top border-right border-bottom yazmaqdansa border : 0 0 0 0; kimi
+
+5.iri layihələri işləyərkən css kodlarını hissələrə ayırmaq
+
+6.img lərdən istifadə etməmək
+
+7.daha oxunaqli olmasi ucun girintili cıxıntılı yazmaq məs:
+-#main{
+	clear: left;
+	float: left;
+	padding-top: 20px;
+}
+#footer{
+	float: left;
+	margin-right: 13px;
+	width: 647px;
+}
+#menu{
+	clear: left;
+	float: left;
+	margin-top: 20px;
+}
+#content{
+	float: left;
+	margin: 0;
+	width: 300px;
+} 
+
+8.daha tez yazmaq ucun ozunuz? bir standart secin
+
+9.mundəriccət yaratmaq
+
+10.css də kod yazarkan həzz alın :)
+
+
+
+
+xeyr bildiyim qədəri ilə yoxdur font avvsome də olan 605 ikon yetərlidir fikrimcə
+
+
+Azərbaycan sriftlərini dəstəkləyən 10 ədəd font ailəsinin adı:
+1.LATO
+2.ARIAL
+3.CALIBRI
+4.TIMES NEW ROMAN 
+5.TAHOMA
+6.CYRILLIC
+7.VERDANA
+8.AZERI LATIN
+9.CAMBRIA
+10.LATIN EXTENDED
+
+
+
